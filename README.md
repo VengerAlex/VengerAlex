@@ -8,6 +8,9 @@ I have experienced wtih Bootstrap, HTML, CSS, JavaScript, Pug, React, Git, Gulp,
 🎮 Also I tend to spend my free time with my friend's outdoour by playing different kind's of sport. For sure, I'm into sport.
 Also I constantly learning new things, and trying to develop myself day by day.The second my hobbies after sport is English, i can spend a lot of time by wathching show's in English or reading topics about WEB.
 
+### Spotify Playing 🎧
+
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="VengerAlex" width="350" />](https://open.spotify.com/user/31dgvw5xwyb6mehckymbfynzp4ni)
 
 ### Connect with me:
 
