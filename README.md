@@ -1,18 +1,18 @@
 ### Hi there 👋, I'm Alex
 
-
 ## I'm a FrontEnd Developer
-- 💪 I like to write code
-- 🎉 I love to spend time with my friends
-- 🥅 I am constantly learning new things
-- ⚡ I love all kind's of sport
-- 🎮 I like watching movies in English
-- 💂‍♂️ I spend my free time by constantly learning English
+
+✌️ My name is Alex, I am 18 years old. I have been doing programming for about 1 years, trying out different technologies.Currently studying at Technological College of Lviv Polytechnic National University at Computer engineering.
+I have experienced wtih Bootstrap, HTML, CSS, JavaScript, Pug, React, Git, Gulp, Webpack, TypeScript.
+
+🎮 Also I tend to spend my free time with my friend's outdoour by playing different kind's of sport. For sure, I'm into sport.
+Also I constantly learning new things, and trying to develop myself day by day.The second my hobbies after sport is English, i can spend a lot of time by wathching show's in English or reading topics about WEB.
+
 
 ### Connect with me:
 
 
-[<img align="left" alt="VengerAlex | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+
 [<img align="left" alt="VengerAlex | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="VengerAlex | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="VengerAlex | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
@@ -36,9 +36,10 @@
 
 <details>
   <summary>:zap: Statistics:</summary>
-   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VengerAlex&langs_count=8&layout=compact" />
+   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VengerAlex&langs_count=8&layout=compact&theme=radical&show_icons=true
+" />
     <br />
-    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=VengerAlex&show_icons=true" />
+    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=VengerAlex&theme=radical&show_icons=true" />
 </details>
 
 [linkedin]: https://www.linkedin.com/in/alex-venger-299646214/
