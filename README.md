@@ -39,7 +39,7 @@
 <br />
 <br />
 
-https://media.giphy.com/media/JyyUwsNClJDoI/giphy.gif
+![giphy](https://user-images.githubusercontent.com/74004278/125146157-28d8b200-e12d-11eb-8ea9-d41bb80f24f0.gif)
 
 <details>
   <summary>:zap: Statistics:</summary>
