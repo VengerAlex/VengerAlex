@@ -39,7 +39,8 @@
 <br />
 <br />
 
-![giphy](https://user-images.githubusercontent.com/74004278/125146157-28d8b200-e12d-11eb-8ea9-d41bb80f24f0.gif)
+![giphy (1)](https://user-images.githubusercontent.com/74004278/125146203-502f7f00-e12d-11eb-820b-4e980a3e9693.gif)
+
 
 <details>
   <summary>:zap: Statistics:</summary>
