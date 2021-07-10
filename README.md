@@ -39,7 +39,7 @@
 <br />
 <br />
 
-<iframe src="https://giphy.com/embed/QNFhOolVeCzPQ2Mx85" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/checkmatedigital-code-coding-monkey-QNFhOolVeCzPQ2Mx85">via GIPHY</a></p>
+https://media.giphy.com/media/JyyUwsNClJDoI/giphy.gif
 
 <details>
   <summary>:zap: Statistics:</summary>
