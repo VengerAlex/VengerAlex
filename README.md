@@ -13,7 +13,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="VengerAlex" width="500" />](https://open.spotify.com/user/31dgvw5xwyb6mehckymbfynzp4ni)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="VengerAlex" width="500" />](https://open.spotify.com/artist/6K9KevAu0cpln7xOsM3Wkm)
 
 ### Connect with me:
 
