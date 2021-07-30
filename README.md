@@ -9,7 +9,7 @@
 - 👯 I adore reading article
 - 🥅 2021 Goals: achieve the most desirable dream
 - ⚡ Fun fact: I am into all kind's of sport
-- 🎧 24/7 in music
+- 🎧 24/7 in musis
 
 ### Spotify Playing 🎧
 
