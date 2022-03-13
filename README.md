@@ -18,10 +18,10 @@
 
 ### Connect with me:
 
-
-
-[<img align="left" alt="VengerAlexx | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="VengerAlexx | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<p>
+<a href="https://www.linkedin.com/in/alex-venger-299646214/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a>
+<a href="https://www.instagram.com/_v_e_n_g_e_r_/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  height="30px"/></a>
+</p>
 
 <br />
 
@@ -50,7 +50,5 @@
     <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=VengerAlex&theme=radical&show_icons=true" />
 </details>
 
-[linkedin]: https://www.linkedin.com/in/alex-venger-299646214/
-[instagram]: https://www.instagram.com/_v_e_n_g_e_r_/
-[vk]: https://vk.com/venher2002
+
 
