@@ -7,7 +7,7 @@
 - 💪 I like to write code
 - 🤹🏽 I’m currently learning everything 🤣
 - 👯 I adore reading article
-- 🥅 2021 Goals: achieve the most desirable dream
+- 🥅 2022 Goals: achieve the most desirable dream
 - ⚡ Fun fact: I am into all kind's of sport
 - 🎧 24/7 in musis
 
