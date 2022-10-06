@@ -4,8 +4,6 @@
 
 
 - 🎓 Studying at Lviv Polytechnic National University
-- 💪 I like to write code
-- 🤹🏽 I’m currently learning everything 🤣
 - 👯 I adore reading article
 - 🥅 2022 Goals: achieve the most desirable dream
 - ⚡ Fun fact: I am into all kind's of sport
