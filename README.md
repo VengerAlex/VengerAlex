@@ -40,12 +40,3 @@
 <br />
 
 ![giphy (1)](https://user-images.githubusercontent.com/74004278/125146203-502f7f00-e12d-11eb-820b-4e980a3e9693.gif)
-
-
-<details>
-  <summary>:zap: Statistics:</summary>
-    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=VengerAlex&theme=radical&show_icons=true" />
-</details>
-
-
-
