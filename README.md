@@ -3,7 +3,7 @@
 [![Spotify](https://spotify-now-playing-1.vercel.app/api/spotify-playing)](https://open.spotify.com/user/31dgvw5xwyb6mehckymbfynzp4ni)
 
 
-![giphy (1)](https://user-images.githubusercontent.com/74004278/125146203-502f7f00-e12d-11eb-820b-4e980a3e9693.gif](https://media.tenor.com/NGpTgyQMg14AAAAd/rick-and-morty-watching.gif)
+![giphy (1)](https://media.tenor.com/QUdqYaj8dNYAAAAC/rick-and-morty-rick.gif)
 
 ### Connect with me:
 
