@@ -3,10 +3,6 @@
 ## I'm a FrontEnd Developer
 
 
-- 🎓 Studying at Lviv Polytechnic National University
-- 👯 I adore reading article
-- 🥅 2022 Goals: achieve the most desirable dream
-- ⚡ Fun fact: I am into all kind's of sport
 - 🎧 24/7 in musis
 
 ### Spotify Playing 🎧
@@ -18,7 +14,6 @@
 
 <p>
 <a href="https://www.linkedin.com/in/alex-venger-299646214/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a>
-<a href="https://www.instagram.com/_v_e_n_g_e_r_/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  height="30px"/></a>
 </p>
 
 <br />
