@@ -1,9 +1,5 @@
 ### Hi there 👋, I'm Alex
 
-## I'm a FrontEnd Developer
-
-
-- 🎧 24/7 in musis
 
 ### Spotify Playing 🎧
 
